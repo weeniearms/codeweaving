@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWeaving", "BasicWeaving\BasicWeaving.csproj", "{7FB618B6-BAD0-4442-8FF6-2AC3A73DCC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWeaving.Tests", "BasicWeaving.Tests\BasicWeaving.Tests.csproj", "{1857D9CE-A96F-4302-BA6C-A736F6996EE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWeaving.Target", "BasicWeaving.Target\BasicWeaving.Target.csproj", "{2A7AB806-858E-4FF1-B8E9-1367BF86AE07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB618B6-BAD0-4442-8FF6-2AC3A73DCC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB618B6-BAD0-4442-8FF6-2AC3A73DCC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1857D9CE-A96F-4302-BA6C-A736F6996EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1857D9CE-A96F-4302-BA6C-A736F6996EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7AB806-858E-4FF1-B8E9-1367BF86AE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7AB806-858E-4FF1-B8E9-1367BF86AE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

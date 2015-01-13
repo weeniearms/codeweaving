@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostSharpWeaving", "PostSharpWeaving\PostSharpWeaving.csproj", "{609B879E-B431-4CBD-976C-0A5892990B1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostSharpWeaving.Tests", "PostSharpWeaving.Tests\PostSharpWeaving.Tests.csproj", "{508A245F-23BC-4BD8-A543-DB514618B84D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostSharpWeaving.Target", "PostSharpWeaving.Target\PostSharpWeaving.Target.csproj", "{8FCBC340-036A-41F7-ACC4-710FEAE90169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609B879E-B431-4CBD-976C-0A5892990B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609B879E-B431-4CBD-976C-0A5892990B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508A245F-23BC-4BD8-A543-DB514618B84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508A245F-23BC-4BD8-A543-DB514618B84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCBC340-036A-41F7-ACC4-710FEAE90169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCBC340-036A-41F7-ACC4-710FEAE90169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
